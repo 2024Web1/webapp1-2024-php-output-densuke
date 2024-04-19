@@ -9,6 +9,6 @@
 </head>
 <body>
     <!-- この領域(bodyタグ内)に処理内容を入れてください -->
-    <p><?= "Hello,PHP" ?></p>
+    <p><php echo "Hello,PHP"; ?></p>
 </body>
 </html>
